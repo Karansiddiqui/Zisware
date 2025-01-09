@@ -38,7 +38,7 @@ function DailySalesStats() {
       ),
       svg2: (
         <div>
-          <svg height="40">
+          <svg width="100%" height="40">
             <g width="215.15625">
               <rect
                 className="d3-random-bars"
@@ -273,7 +273,7 @@ function DailySalesStats() {
       ),
       svg2: (
         <div className="">
-          <svg height="40">
+          <svg width="100%" height="40">
             <g width="215.15625">
               <rect
                 className="d3-random-bars"
