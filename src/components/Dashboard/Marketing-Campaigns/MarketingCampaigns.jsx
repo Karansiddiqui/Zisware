@@ -399,7 +399,7 @@ function Marketing_Campaigns() {
                     <td className="px-4 py-[6px]">
                       <div className="flex items-center space-x-4">
                         <div className={`p-2 rounded-lg`}>
-                          <img src={Icon} className="w-9 h-9" />
+                          <img src={Icon} className="min-w-9 h-9" />
                         </div>
                         <div className="space-y-[px]">
                           <a
